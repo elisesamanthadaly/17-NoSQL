@@ -10,19 +10,22 @@ The deployed application can be found [here](https://esd-workout-tracker.herokua
 
 ![landing](./assets/images/landing.png)
 
-On the landing page, click "New Workout" to enter information for a new workout. After entering all fields, selected either "Complete" or "Add Exercise." Completing an exercise prevents further modification to it. Adding the exercise allows for it to be continued later. Click "Fitness Tracker" to be taken back to the landing page.
+On the landing page, click "New Workout" to enter information for a new workout. After entering all fields, select either "Complete" or "Add Exercise." Completing an exercise prevents further modification to it. Adding the exercise allows for it to be continued later. Click "Fitness Tracker" in the upper lefthand corner to be taken back to the landing page.
+
 
 ![add](./assets/images/add.png)
 
 Click "Continue Workout" to modify an existing workout. You must enter the existing workout's name to do so. As before, click "Complete" or "Add Exercise" to finish your modification.
 
+
 ![dashboard](./assets/images/dashboard.png)
 
 The Dashboard is not currently functional.
 
+
 ## Credits
 
-Application front-end provided through UNC Coding Bootcamp as starter code.
+Application front-end provided by UNC Coding Bootcamp as starter code.
 
 
 ## License
