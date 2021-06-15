@@ -1,4 +1,4 @@
-# Unit-17-NoSQL
+# 17 NoSQL
 # Workout Tracker
 
 This application allows users to view, create, and track daily workouts.
